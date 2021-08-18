@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
+<?php
 <head>
     <!-- Required meta tags-->
     <meta charset="UTF-8">
@@ -71,5 +69,4 @@
 
 </body><!-- This templates was made by Colorlib (https://colorlib.com) -->
 
-</html>
-<!-- end document-->
+?>
