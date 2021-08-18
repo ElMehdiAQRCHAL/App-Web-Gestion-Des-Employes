@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php
 <head>
   <meta charset="utf-8">
   <title>ONEP Services</title>
@@ -198,4 +197,4 @@
   <script src="js/main.js"></script>
 
 </body>
-</html>
+?>
