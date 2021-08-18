@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -50,4 +49,4 @@
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="js/main.js"></script>
 </body><!-- This templates was made by Colorlib (https://colorlib.com) -->
-</html>
+?>
